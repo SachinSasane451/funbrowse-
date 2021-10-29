@@ -1,0 +1,20 @@
+{
+    "name": "funbrowse",
+    "version": "0.001",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "smile16.png",
+            "32": "smile32.png",
+            "48": "smile48.png",
+            "128": "smile128.png"
+        }
+    },
+    "icons": {
+        "16": "smile16.png",
+        "32": "smile32.png",
+        "48": "smile48.png",
+        "128": "smile128.png"
+    }
+}
